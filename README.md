@@ -51,23 +51,8 @@ Other companies like those listed below also occupy the consumer banking or neob
 - Zero
 
 ## Results:
-- What has been the business impact of this company so far? 
 
-Varo's business impact
-
-- What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on the metrics?
-
-In the consumer banking domain core metrics such as ... are used to measure a company's success.
-
-Varo's performance in these areas 
-
-Using these metrics to assess Varo's performance, 
-
-- How is your company performing relative to competitors in the same domain? 
-
-Chime
-
-In comparison to other companies in the consumer banking domain, 
+Varo has not made a significant impact yet. The new OCC charter will allow Varo to begin growing at the rate that it desires.
 
 ## Recommendations 
 - If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
